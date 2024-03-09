@@ -1,0 +1,11 @@
+C:\Users\sycds\source\repos\testing\mdf2.0\newMdf\bin\Debug\testing.mdf
+C:\Users\sycds\source\repos\testing\mdf2.0\newMdf\bin\Debug\testing_log.ldf
+C:\Users\sycds\source\repos\testing\mdf2.0\newMdf\bin\Debug\newMdf.exe.config
+C:\Users\sycds\source\repos\testing\mdf2.0\newMdf\bin\Debug\newMdf.exe
+C:\Users\sycds\source\repos\testing\mdf2.0\newMdf\bin\Debug\newMdf.pdb
+C:\Users\sycds\source\repos\testing\mdf2.0\newMdf\obj\Debug\newMdf.csproj.AssemblyReference.cache
+C:\Users\sycds\source\repos\testing\mdf2.0\newMdf\obj\Debug\newMdf.Properties.Resources.resources
+C:\Users\sycds\source\repos\testing\mdf2.0\newMdf\obj\Debug\newMdf.csproj.GenerateResource.cache
+C:\Users\sycds\source\repos\testing\mdf2.0\newMdf\obj\Debug\newMdf.csproj.CoreCompileInputs.cache
+C:\Users\sycds\source\repos\testing\mdf2.0\newMdf\obj\Debug\newMdf.exe
+C:\Users\sycds\source\repos\testing\mdf2.0\newMdf\obj\Debug\newMdf.pdb
